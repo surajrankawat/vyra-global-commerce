@@ -1,0 +1,6 @@
+{
+  "name": "VYRA",
+  "description": "VYRA — Venture Your Reach Anywhere. BUILD BEYOND BORDERS. Global Commerce Network + AI Business Operating System for buyers, sellers, manufacturers, exporters, and enterprises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
